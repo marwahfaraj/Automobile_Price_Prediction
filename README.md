@@ -1,5 +1,20 @@
-# Exploratory Data Analysing using Python for Automobile dataset
+# Automobile Price estimation
+![](image/car_pic.png)
+----
+## Marwah Faraj<br>
 
-**Background and Motivation**<br>
- The competion between car company never ended and they keep trying enhancing their car's specifications and have vraiety features aiming in achieving satisfaction to the cusmors.
-As that been said, I made some analysis for the data after reading, and cleaning the data to have a look how the cars difrrient in specifications in comparision to each other
+[Linkedin](https://www.linkedin.com/in/marwah-faraj-4272b4203/) | [Github](https://github.com/marwahfaraj) | [E-mail](marwah.faraj777@gmail.com)
+----
+## Content<br>
+
+1-Background and Morivation<br>
+2-Data:<br>
+   Description<br>
+    Pipline<br>
+3-Exploration<br>
+4-visualization<br>
+5-Fuether Study<br>
+
+## Background and Motivation <br>
+This dataset consist of data From 1985 Ward's Automotive Yearbook, and it is contain information about used car.
+I’m interesting in showing what are the factors that affect the price estimation process.
