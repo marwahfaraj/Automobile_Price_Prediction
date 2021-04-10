@@ -9,8 +9,9 @@
 
 1-Background and Morivation<br>
 2-Data:<br>
-   Description<br>
-    Pipline<br>
+  - Description<br>
+  - Pipline<br>  
+
 3-Exploration<br>
 4-visualization<br>
 5-Fuether Study<br>
@@ -90,9 +91,19 @@ And the null value is been rejected, and Yes the expensive car is more safe.
 ![](image/high_low_price.png)
 
 ## Conclusions
-The price estimation for these used car are affected by the brand, engine size, horsepower, curb weight, drive wheel and fuel type. 
+This dataset tells us that expensive cars are more safe
+This dataset also tells us that the price is strongly related to the brand, engine size, horsepower, curb weight, drive wheel and fuel type. 
+- Brand: Jaguar is the most expensive car.
+- Performance: when engine size, and horsepower increase the price increases.
+- Specifications:
+  - The Rear wheel drive are most expensive car in this dataset.
+  - Curb weight increase the price increases, especially when fuel type is diesel.
+ 
 
 ## Further Study
+In the future I will use machine learning to model car prices.  
+I would like to explore the price difference between Japanese and non-Japanese cars.
+
 
 
 
