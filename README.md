@@ -3,26 +3,29 @@
 ----
 ## Marwah Faraj<br>
 
-[Linkedin](https://www.linkedin.com/in/marwah-faraj-4272b4203/) | [Github](https://github.com/marwahfaraj) | [E-mail](marwah.faraj777@gmail.com)
+[Linkedin](https://www.linkedin.com/in/marwah-faraj-4272b4203/) | [Github](https://github.com/marwahfaraj) | [E-mail](marwah.faraj777@gmail.com) |
+[Automobile Dataset](https://www.kaggle.com/toramky/automobile-dataset) |
+[Poject Presentation](https://docs.google.com/presentation/d/1G8wWIvu87-hp_G9o6djAa4zj3Dws-9EIiR377FOOcCs/edit?usp=sharing)
 ----
-## Content<br>
 
-1-Background and Morivation<br>
-2-Data:<br>
-  - Description<br>
-  - Pipline<br>  
+# Table of Contents
+1. [Background and Motivation](#background and motivation)
+2. [Data](#data). 
+    -[Description](#description)
+      -[Pipline](#pipline)  
+   
+5. [Exploration](#exploration)
+6. [Visualization](#visualization)
+7. [Further Study](#further study)
 
-3-Exploration<br>
-4-visualization<br>
-5-Fuether Study<br>
 
-## Background and Motivation <br>
-This dataset consist of data From 1985 Ward's Automotive Yearbook, and it is contain information about used car. I’m interesting in showing what are the factors that affect the price estimation process.<br>
+## Background and Motivation
+This dataset consist of data From 1985 Ward's Automotive Yearbook, and it is contain information about used car. I’m interesting in showing what are the factors that affect the price estimation process.
 
 ----
 
 ## Data
-This dataset consist of data From 1985 Ward's Automotive Yearbook.<br>
+This dataset consist of data From 1985 Ward's Automotive Yearbook.
 This data set consists of three types of entities: (a) the specification of an auto in terms of various characteristics, (b) its assigned insurance risk rating, (c) its normalized losses in use as compared to other cars. The second rating corresponds to the degree to which the auto is more risky than its price indicates. Cars are initially assigned a risk factor symbol associated with its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. Actuarians call this process "symboling". A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe.
 
 The third factor is the relative average loss payment per insured vehicle year. This value is normalized for all autos within a particular size classification (two-door small, station wagons, sports/speciality, etc…), and represents the average loss per car per year.<br>
