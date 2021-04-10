@@ -9,14 +9,14 @@
 ----
 
 # Table of Contents
-1. [Background and Motivation](#background and motivation)
-2. [Data](#data). 
-    -[Description](#description)
-      -[Pipline](#pipline)  
+1. [Background and Motivation](#background-and-motivation)
+2. [Data](#data)  
+    - [Description](#description)
+    - [Pipline](#pipline)  
    
 5. [Exploration](#exploration)
 6. [Visualization](#visualization)
-7. [Further Study](#further study)
+7. [Further Study](#further-study)
 
 
 ## Background and Motivation
@@ -82,7 +82,7 @@ In this dataset, there are 3 different drive wheel types which they are Front wh
 ![](image/fuel_type.png)
 
 
-# Q: Are the expensive cars are more safe?
+# Q: Are the expensive cars more safe?
 Hypothesis testing
 H0=mu for the safety rate of the expensive car = mu of the safety rate of cheap car
 Ha=mu for the symboling of the expensive car not = mu of the symboling of cheap car
