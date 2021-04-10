@@ -78,5 +78,22 @@ In this dataset, there are 3 different drive wheel types which they are Front wh
 ![](image/fuel_type.png)
 
 
+# Q: Is the expensive care are more safe?
+Hypothesis testing
+H0=mu for the safety rate of the expensive car = mu of the safety rate of cheap car
+Ha=mu for the symboling of the expensive car not = mu of the symboling of cheap car
+With using the Mann-Whitney U Test, and the range of the low price for the car in 1985 which was $ 6,298, the result was:
+
+p value=0.037
+
+And the null value is been rejected, and Yes the expensive car is more safe.
+![](image/high_low_price.png)
+
+## Conclusions
+The price estimation for these used car are affected by the brand, engine size, horsepower, curb weight, drive wheel and fuel type. 
+
+## Further Study
+
+
 
 
