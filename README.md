@@ -1,4 +1,4 @@
-# Automobile Price estimation
+# Automobile Price prediction
 ![](image/car_pic.png)
 ----
 ## Marwah Faraj<br>
