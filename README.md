@@ -16,7 +16,7 @@
    
 5. [Exploration](#exploration)
 6. [Visualization](#visualization)
-7. [Machine Learning](#machinelearning)
+7. [Machine Learning](#machine-learning)
 8. [Conclusions](#Conclusions)
 9. [Further Study](#further-study)
 
