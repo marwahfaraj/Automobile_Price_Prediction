@@ -16,7 +16,9 @@
    
 5. [Exploration](#exploration)
 6. [Visualization](#visualization)
-7. [Further Study](#further-study)
+7. [Machine Learning](#machinelearning)
+8. [Conclusions](#Conclusions)
+9. [Further Study](#further-study)
 
 
 ## Background and Motivation
@@ -93,6 +95,11 @@ p value=0.037
 And the null value is been rejected, and Yes the expensive car is more safe.
 ![](image/high_low_price.png)
 
+## Machine Learning
+After using driffrient machine learning algorthims, the Gradienit Bossting Regressor gave the best acuracy score and here is a comparision between thier scores:
+![](image/score_table.png)
+
+
 ## Conclusions
 This dataset tells us that expensive cars are more safe
 This dataset also tells us that the price is strongly related to the brand, engine size, horsepower, curb weight, drive wheel and fuel type. 
@@ -101,10 +108,10 @@ This dataset also tells us that the price is strongly related to the brand, engi
 - Specifications:
   - The Rear wheel drive are most expensive car in this dataset.
   - Curb weight increase the price increases, especially when fuel type is diesel.
+- By using dffrient Machine Learning algorthims, Gradienit Bossting Regressor gave the best acuracy score 86.6%.
  
 
 ## Further Study
-In the future I will use machine learning to model car prices.  
 I would like to explore the price difference between Japanese and non-Japanese cars.
 
 
