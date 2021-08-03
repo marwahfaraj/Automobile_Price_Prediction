@@ -96,7 +96,7 @@ And the null value is been rejected, and Yes the expensive car is more safe.
 ![](image/high_low_price.png)
 
 ## Machine Learning
-After using driffrient machine learning algorthims, the Gradienit Bossting Regressor gave the best acuracy score and here is a comparision between thier scores:
+After using different machine learning algorithms, the Gradient Boosting Regressor gave the best accuracy score and here is a comparison between their scores: 
 ![](image/score_table.png)
 
 
