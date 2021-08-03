@@ -56,7 +56,7 @@ Noticed that I have a lot of japanese car in the dataset,and this is due custome
 ![](image/japanese_cars.png)
 
 ## The make factor
-The data positively skewed as shown in the previous plots, therefore I used  the median to show the price.
+The data negatively skewed as shown in the previous plots, therefore I used  the median to show the price.
 - The most expensive car is manufactured by Jaguar and the least expensive is Chevrolet.
 - Rest of the cars are in the midrange between 10000 and 20000 which has the highest number of cars
 ![](image/median_price.png)
@@ -108,7 +108,7 @@ This dataset also tells us that the price is strongly related to the brand, engi
 - Specifications:
   - The Rear wheel drive are most expensive car in this dataset.
   - Curb weight increase the price increases, especially when fuel type is diesel.
-- By using dffrient Machine Learning algorthims, Gradienit Bossting Regressor gave the best acuracy score 86.6%.
+- By using different Machine Learning algorithms, Gradient Boosting Regressor gave the best accuracy score 86.6%.
  
 
 ## Further Study
