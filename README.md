@@ -112,7 +112,8 @@ This dataset also tells us that the price is strongly related to the brand, engi
  
 
 ## Further Study
-I would like to explore the price difference between Japanese and non-Japanese cars.
+- Applying Deep Learning algorthim in predicting the car price.
+- I would like to explore the price difference between Japanese and non-Japanese cars.
 
 
 
