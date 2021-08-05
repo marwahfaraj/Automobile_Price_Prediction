@@ -96,7 +96,7 @@ And the null value is been rejected, and Yes the expensive car is more safe.
 ![](image/high_low_price.png)
 
 ## Machine Learning
-After using different machine learning algorithms, the Gradient Boosting Regressor gave the best accuracy score and here is a comparison between their scores: 
+After using different machine learning algorithms, the Random Forest Algorithm gave the best R^2 score and here is a comparison between their scores: 
 ![](image/score_table.png)
 
 
@@ -108,7 +108,7 @@ This dataset also tells us that the price is strongly related to the brand, engi
 - Specifications:
   - The Rear wheel drive are most expensive car in this dataset.
   - Curb weight increase the price increases, especially when fuel type is diesel.
-- By using different Machine Learning algorithms, Gradient Boosting Regressor gave the best accuracy score 86.6%.
+- By using different Machine Learning algorithms, Random Forest Algorithm gave the best acuracy R^2 score 87%.
  
 
 ## Further Study
