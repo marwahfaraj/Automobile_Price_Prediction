@@ -108,7 +108,7 @@ This dataset also tells us that the price is strongly related to the brand, engi
 - Specifications:
   - The Rear wheel drive are most expensive car in this dataset.
   - Curb weight increase the price increases, especially when fuel type is diesel.
-- By using different Machine Learning algorithms, Random Forest Algorithm gave the best acuracy R^2 score 87%.
+- By using different Machine Learning algorithms, Random Forest Algorithm gave the best acuracy R^2 score 0.87.
  
 
 ## Further Study
