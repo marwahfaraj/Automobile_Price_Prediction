@@ -1,6 +1,6 @@
 # Automobile Price Prediction
 
-![Car](image/car_pic.png)
+![Car](data/image/car_pic.png)
 
 ---
 
@@ -54,34 +54,34 @@ The dataset doesn't contain null values, but some columns lack statistics. Furth
 Factors affecting car price include brand, performance, and features. 
 
 - Distribution of car prices:
-  ![Price Distribution](image/price_distribution.png)
+  ![Price Distribution](data/image/price_distribution.png)
 
 - Car count by manufacturer:
-  ![Car Count](image/car_count.png)
+  ![Car Count](data/image/car_count.png)
 
 - Distribution of Japanese cars:
-  ![Japanese Cars](image/japanese_cars.png)
+  ![Japanese Cars](data/image/japanese_cars.png)
 
 ### The Make Factor
 
 - Median prices by manufacturer:
-  ![Median Price](image/median_price.png)
+  ![Median Price](data/image/median_price.png)
 
 ### The Performance Factor
 
 - Correlation between engine size, curb weight, cylinders, and horsepower:
-  ![Correlation Map](image/zoomed_map.png)
+  ![Correlation Map](data/image/zoomed_map.png)
 
 - Price correlation with horsepower and engine size:
-  ![Price vs. Horsepower and Engine Size](image/price_horsepwer_enginsize_corr.png)
+  ![Price vs. Horsepower and Engine Size](data/image/price_horsepwer_enginsize_corr.png)
 
 ### The Feature Factor
 
 - Price correlation with drive wheel type:
-  ![Drive Wheel Correlation](image/drive_wheel_corr.png)
+  ![Drive Wheel Correlation](data/image/drive_wheel_corr.png)
 
 - Price correlation with fuel type:
-  ![Fuel Type](image/fuel_type.png)
+  ![Fuel Type](data/image/fuel_type.png)
 
 # Q: Are expensive cars safer?
 
@@ -93,13 +93,13 @@ Using the Mann-Whitney U Test, with a low car price range of $6,298, the result 
 - p-value = 0.037
 
 The null hypothesis is rejected, indicating that expensive cars are safer.
-![High vs. Low Price](image/high_low_price.png)
+![High vs. Low Price](data/image/high_low_price.png)
 
 ## Machine Learning
 
 Random Forest Algorithm yielded the best R^2 score among various machine learning algorithms.
 
-![Score Table](image/score_table.png)
+![Score Table](data/image/score_table.png)
 
 ## Conclusions
 
